@@ -7,3 +7,7 @@ it will contain the following:
         with links to a few recipes
 
 i will come back and add on whathave i learned so far and what has been implemented while making this project.
+
+
+14th january i started this project, created the home page with 3 different recipes
+15th Jan: Added a homepage button on every recipe page
